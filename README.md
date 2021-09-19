@@ -37,3 +37,7 @@ In solidity there are more or less 2 ways of storing information: memory / stora
 
 - Memory: Data will only be stored during the execution of the function.
 - Storage: Data will persist even after the function is executed.
+
+EVM: Etherium Virtual Machine
+
+// SPDX-License-Identifier: MIT -> License which grants transparency and trust to a contract, its included in the topfile of a smart contract

@@ -30,3 +30,10 @@ Making a function call or calling a variable, makes a transaction in the blockch
 - View: Means that we want to read state off the blockchain, we are not making a state change. (Blue color)
 
 - Pure: Purely do some kind of math. (Blue color)
+
+### Keywords
+
+In solidity there are more or less 2 ways of storing information: memory / storage
+
+- Memory: Data will only be stored during the execution of the function.
+- Storage: Data will persist even after the function is executed.
